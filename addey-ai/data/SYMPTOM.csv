@@ -1,0 +1,71 @@
+Symptom_ID,Disease_ID,symptom_name,severity,common_level
+S001,D001,Fever,High,very common
+S002,D001,chills,medium,very common
+S003,D001,Sweating,medium,very common
+S004,D001,Headache,medium,very common
+S005,D001,Muscle aches,medium,common
+S006,D001,Fatigue,medium,common
+S007,D001,Nausea,low,common
+S008,D001,Vomiting,medium,common
+S009,D001,Diarrhea,low,less common
+S010,D001,Abdominal pain,medium,less common
+S011,D001,Confusion,high,Rare
+S012,D001,Seizures,Critical,Rare
+S013,D001,Difficulty breathing,Critical,Rare
+S014,D001,Loss of consciousness,Critical,Rare
+S015,D002,Persistent cough (lasting 2 weeks or more),High,very common
+S016,D002,Coughing up blood (hemoptysis),High,common
+S017,D002,Chest pain,medium,common
+S018,D002,Fever,medium,common
+S019,D002,Night sweats,medium,very common
+S020,D002,Weight loss,High,very common
+S021,D002,Loss of appetite,medium,common
+S022,D002,Fatigue,medium,common
+S023,D002,Weakness,medium,common
+S024,D002,Chills,low,less common
+S025,D002,Shortness of breath,High,less common
+S026,D002,Severe breathing difficulty,Critical,Rare
+S027,D002,Persistent high fever,High,less common
+S028,D002,Swollen lymph nodes (especially in neck),medium,less common
+S029,D003,Cough,High,very common
+S030,D003,Fever,medium,very common
+S031,D003,Chills,medium,common
+S032,D003,Difficulty breathing,High,very common
+S033,D003,Rapid breathing,High,common
+S034,D003,Chest pain (especially when breathing or coughing),High,common
+S035,D003,Fatigue,medium,common
+S036,D003,Sweating,low,common
+S037,D003,Nausea,low,less common
+S038,D003,Vomiting,medium,less common
+S039,D003,Confusion (especially in older adults),High,less common
+S040,D003,Bluish lips or fingertips (cyanosis),Critical,Rare
+S041,D003,Severe shortness of breath,Critical,Rare
+S042,D003,Persistent high fever,High,less common
+S043,D004,Frequent loose or watery stools,High,very common
+S044,D004,Abdominal cramps,medium,very common
+S045,D004,Abdominal pain,medium,common
+S046,D004,Nausea,low,common
+S047,D004,Vomiting,medium,common
+S048,D004,Fever,medium,common
+S049,D004,Bloating,low,less common
+S050,D004,Urgent need to have a bowel movement,medium,common
+S051,D004,Dry mouth,High,common
+S052,D004,Increased thirst,medium,common
+S053,D004,Sunken eyes,High,less common
+S054,D004,Little or no urination,Critical,Rare
+S055,D004,Confusion or lethargy,Critical,Rare
+S056,D004,Blood in stool,High,less common
+S057,D005,Abdominal pain,medium,very common
+S058,D005,Diarrhea,medium,common
+S059,D005,Nausea,low,common
+S060,D005,Vomiting,medium,less common
+S061,D005,Loss of appetite,medium,common
+S062,D005,Weight loss,High,common
+S063,D005,Fatigue,medium,common
+S064,D005,Anemia,High,common
+S065,D005,Abdominal bloating,low,less common
+S066,D005,Itching around the anus,medium,less common
+S067,D005,Worms visible in stool,High,less common
+S068,D005,Intestinal obstruction,Critical,Rare
+S069,D005,Malnutrition,High,less common
+S070,D005,Poor growth in children,High,common

@@ -1,0 +1,26 @@
+Mapping_ID,Disease_ID,Plant_ID,Relationship,Evidence_level
+MAP001,D001,MAL_P001,Traditionally used for malaria treatment in Ethiopian communities,Traditional ethnomedicine
+MAP002,D001,MAL_P002,Traditionally used for malaria; antimalarial activity reported in experimental studies,Traditional ethnomedicine + Experimental evidence
+MAP003,D001,MAL_P003,Traditionally used for malaria and fever management,Traditional ethnomedicine
+MAP004,D001,MAL_P004,Traditionally used for malaria symptoms and febrile illness,Traditional ethnomedicine
+MAP005,D001,MAL_P005,Traditionally used for malaria and related fever conditions,Traditional ethnomedicine
+MAP006,D002,TB_P001,"Traditionally used for tuberculosis symptoms, cough, and respiratory complaints in Ethiopian communities",Traditional ethnomedicine
+MAP007,D002,TB_P002,"Traditionally used for cough, chest discomfort, and respiratory conditions associated with TB",Traditional ethnomedicine
+MAP008,D002,TB_P003,Traditionally used for tuberculosis and respiratory infections in Ethiopian traditional medicine,Traditional ethnomedicine
+MAP009,D002,TB_P004,Traditionally used for tuberculosis-related symptoms and other ailments,Traditional ethnomedicine
+MAP010,D002,TB_P005,"Traditionally used for cough, fever, and respiratory illnesses including TB-related complaints",Traditional ethnomedicine
+MAP011,D003,PNE_P001,"Traditionally used for pneumonia symptoms, cough, fever, and respiratory illnesses in Ethiopian communities",Traditional ethnomedicine
+MAP012,D003,PNE_P002,"Traditionally used for respiratory infections, cough, and chest-related illnesses",Traditional ethnomedicine
+MAP013,D003,PNE_P003,"Traditionally used for cough, throat irritation, and respiratory discomfort associated with pneumonia-like illnesses",Traditional ethnomedicine
+MAP014,D003,PNE_P004,"Traditionally used for cough, fever, and respiratory conditions",Traditional ethnomedicine
+MAP015,D003,PNE_P005,"Traditionally used for cough, breathing difficulties, and respiratory infections",Traditional ethnomedicine
+MAP016,D004,DIA_P001,Traditionally used for diarrhea and dysentery management in Ethiopian and other traditional medicine systems,Traditional ethnomedicine + Pharmacological evidence
+MAP017,D004,DIA_P002,"Traditionally used for intestinal disorders, stomach problems, and diarrhea-related complaints",Traditional ethnomedicine
+MAP018,D004,DIA_P003,Traditionally used for diarrhea and gastrointestinal disorders,Traditional ethnomedicine + Pharmacological evidence
+MAP019,D004,DIA_P004,Traditionally used for digestive problems and diarrhea management,Traditional ethnomedicine
+MAP020,D004,DIA_P005,Traditionally used for stomach disorders and gastrointestinal complaints including diarrhea,Traditional ethnomedicine
+MAP021,D005,HEL_P001,Traditionally used for intestinal worms and gastrointestinal complaints in Ethiopian traditional medicine,Traditional ethnomedicine
+MAP022,D005,HEL_P002,Traditionally used for intestinal worms and digestive disorders,Traditional ethnomedicine
+MAP023,D005,HEL_P003,Traditionally used for intestinal worms and parasitic infections in Ethiopian communities,Traditional ethnomedicine + Experimental evidence
+MAP024,D005,HEL_P004,Traditionally used for intestinal worms and abdominal complaints,Traditional ethnomedicine
+MAP025,D005,HEL_P005,Traditionally used for digestive problems and intestinal parasite-related complaints,Traditional ethnomedicine

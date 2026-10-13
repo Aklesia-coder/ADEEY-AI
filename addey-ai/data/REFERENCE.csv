@@ -1,0 +1,125 @@
+Reference_ID,disease_Id,internatiional_Source_Name,Information_type,international_link,Ethiopian_Source,Ethiopian_Link,Year
+R001,D001,WHO Malaria Overview,category,https://www.who.int/health-topics/malaria,,,
+R002,D001,WHO Malaria Overview,Description,https://www.who.int/health-topics/malaria,,,
+R003,D001,WHO,Cause,https://www.who.int/health-topics/malaria,,,
+R003,D001,"Fikadu & Ashenafi (2023), Addis Ababa University, PubMed",cause,https://pubmed.ncbi.nlm.nih.gov/17824953/,,,
+R004,D001,WHO – Malaria Questions and Answers,Risk_factors,https://www.who.int/news-room/questions-and-answers/item/malaria,,,
+R005,D001,WHO – Malaria Overview,Severity,https://www.who.int/health-topics/malaria,,,
+R006,D002,WHO – Tuberculosis Fact Sheet,category,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,"march 26 ,2026"
+R007,D002,Tuberculosis Fact Sheet,Description,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2026
+R007,D002,Tuberculosis Overview,Description,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2026
+R008,D002,WHO Tuberculosis Fact Sheet,Cause,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2026
+R009,D002,WHO Tuberculosis Fact Sheet,Risk_factors,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2026
+R009,D002,WHO Global Tuberculosis Report,Risk_factors,https://www.who.int/health-topics/tuberculosis,,,2025
+R009,D002,WHO TB Knowledge Sharing,Risk_factors,https://www.who.int/health-topics/tuberculosis,,,current
+R010,D002,WHO Tuberculosis Fact Sheet,Severity,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2026
+R011,D003,WHO – Pneumonia Fact Sheet (2025),category,https://www.who.int/en/news-room/fact-sheets/detail/pneumonia,,,2025
+R012,D003,WHO –Pneumonia Fact Sheet,Description,https://www.who.int/en/news-room/fact-sheets/detail/pneumonia,,,2025
+R013,D003,WHO –Pneumonia Fact Sheet,Cause,https://www.who.int/en/news-room/fact-sheets/detail/pneumonia,,,2025
+R014,D003,WHO –Pneumonia Fact Sheet,Risk_factors,https://www.who.int/en/news-room/fact-sheets/detail/pneumonia,,,2025
+R015,D003,WHO –Pneumonia Fact Sheet,Severity,https://www.who.int/en/news-room/fact-sheets/detail/pneumonia,,,2025
+R016,D004,WHO Diarrhoeal Disease Fact Sheet,category,https://www.who.int/en/news-room/fact-sheets/detail/diarrhoeal-disease,,,2024
+R017,D004,WHO Diarrhoeal Disease Fact Sheet,Description,https://www.who.int/en/news-room/fact-sheets/detail/diarrhoeal-disease,,,2024
+R018,D004,WHO Diarrhoeal Disease Fact Sheet,Cause,https://www.who.int/en/news-room/fact-sheets/detail/diarrhoeal-disease,,,2024
+R019,D004,WHO Diarrhoeal Disease Fact Sheet,Risk_factors,https://www.who.int/en/news-room/fact-sheets/detail/diarrhoeal-disease,,,2024
+R020,D004,WHO Diarrhoeal Disease Fact Sheet,Severity,https://www.who.int/en/news-room/fact-sheets/detail/diarrhoeal-disease,,,2024
+R021,D005,WHO – Soil-transmitted Helminth Infections,category,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R022,D005,WHO – Soil-transmitted Helminth Infections,Description,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R023,D005,WHO – Soil-transmitted Helminth Infections,Cause,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R024,D005,WHO – Soil-transmitted Helminth Infections,Risk_factors,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R025,D005,WHO – Soil-transmitted Helminth Infections,Severity,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R026,D001,WHO,S001,https://www.who.int/news-room/fact-sheets/detail/malaria,,,2025
+R027,D001,WHO,S002,https://www.who.int/news-room/fact-sheets/detail/malaria,,,2025
+R028,D001,WHO,S003,https://www.who.int/news-room/fact-sheets/detail/malaria,,,2025
+R029,D001,WHO,S004,https://www.who.int/news-room/fact-sheets/detail/malaria,,,2025
+R030,D001,WHO,S005,https://www.who.int/news-room/fact-sheets/detail/malaria,,,2025
+R031,D001,WHO,S006,https://www.who.int/news-room/fact-sheets/detail/malaria,,,2025
+R032,D001,WHO,S007,https://www.who.int/news-room/fact-sheets/detail/malaria,,,2025
+R033,D001,WHO,S008,https://www.who.int/news-room/fact-sheets/detail/malaria,,,2025
+R034,D001,WHO,S009,https://www.who.int/news-room/fact-sheets/detail/malaria,,,2025
+R035,D001,WHO,S010,https://www.who.int/news-room/fact-sheets/detail/malaria,,,2025
+R036,D001,WHO,S011,https://www.who.int/news-room/fact-sheets/detail/malaria,,,2025
+R037,D001,WHO,S012,https://www.who.int/news-room/fact-sheets/detail/malaria,,,2025
+R038,D001,WHO,S013,https://www.who.int/news-room/fact-sheets/detail/malaria,,,2025
+R039,D001,WHO,S014,https://www.who.int/news-room/fact-sheets/detail/malaria,,,2025
+R040,D002,WHO,S015,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2025
+R041,D002,WHO,S016,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2025
+R042,D002,WHO,S017,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2025
+R043,D002,WHO,S018,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2025
+R044,D002,WHO,S019,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2025
+R045,D002,WHO,S020,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2025
+R046,D002,WHO,S021,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2025
+R047,D002,WHO,S022,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2025
+R048,D002,WHO,S023,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2025
+R049,D002,WHO,S024,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2025
+R050,D002,WHO,S025,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2025
+R051,D002,WHO,S026,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2025
+R052,D002,WHO,S027,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2025
+R053,D002,WHO,S028,https://www.who.int/news-room/fact-sheets/detail/tuberculosis,,,2025
+R054,D003,WHO,S029,https://www.who.int/news-room/fact-sheets/detail/pneumonia,,,2025
+R055,D003,WHO,S030,https://www.who.int/news-room/fact-sheets/detail/pneumonia,,,2025
+R056,D003,WHO,S031,https://www.who.int/news-room/fact-sheets/detail/pneumonia,,,2025
+R057,D003,WHO,S032,https://www.who.int/news-room/fact-sheets/detail/pneumonia,,,2025
+R058,D003,WHO,S033,https://www.who.int/news-room/fact-sheets/detail/pneumonia,,,2025
+R059,D003,WHO,S034,https://www.who.int/news-room/fact-sheets/detail/pneumonia,,,2025
+R060,D003,WHO,S035,https://www.who.int/news-room/fact-sheets/detail/pneumonia,,,2025
+R061,D003,WHO,S036,https://www.who.int/news-room/fact-sheets/detail/pneumonia,,,2025
+R062,D003,WHO,S037,https://www.who.int/news-room/fact-sheets/detail/pneumonia,,,2025
+R063,D003,WHO,S038,https://www.who.int/news-room/fact-sheets/detail/pneumonia,,,2025
+R064,D003,WHO,S039,https://www.who.int/news-room/fact-sheets/detail/pneumonia,,,2025
+R065,D003,WHO,S040,https://www.who.int/news-room/fact-sheets/detail/pneumonia,,,2025
+R066,D003,WHO,S041,https://www.who.int/news-room/fact-sheets/detail/pneumonia,,,2025
+R067,D003,WHO,S042,https://www.who.int/news-room/fact-sheets/detail/pneumonia,,,2025
+R068,D004,WHO,S043,https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease,,,2025
+R069,D004,WHO,S044,https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease,,,2025
+R070,D004,WHO,S045,https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease,,,2025
+R071,D004,WHO,S046,https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease,,,2025
+R072,D004,WHO,S047,https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease,,,2025
+R073,D004,WHO,S048,https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease,,,2025
+R074,D004,WHO,S049,https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease,,,2025
+R075,D004,WHO,S050,https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease,,,2025
+R076,D004,WHO,S051,https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease,,,2025
+R077,D004,WHO,S052,https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease,,,2025
+R078,D004,WHO,S053,https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease,,,2025
+R079,D004,WHO,S054,https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease,,,2025
+R080,D004,WHO,S055,https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease,,,2025
+R081,D004,WHO,S056,https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease,,,2025
+R082,D005,WHO,S057,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R083,D005,WHO,S058,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R084,D005,WHO,S059,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R085,D005,WHO,S060,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R086,D005,WHO,S061,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R087,D005,WHO,S062,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R088,D005,WHO,S063,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R089,D005,WHO,S064,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R090,D005,WHO,S065,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R091,D005,WHO,S066,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R092,D005,WHO,S067,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R093,D005,WHO,S068,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R094,D005,WHO,S069,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R095,D005,WHO,S070,https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections,,,2025
+R096,MAL_P001,WHO – Guidelines for the Treatment of Malaria,plant,https://www.who.int/teams/global-malaria-programme/case-management/treatment,"Nigussie G., Wale M. Medicinal plants used in traditional treatment of malaria in Ethiopia (Malaria Journal, 2022)",https://pmc.ncbi.nlm.nih.gov/articles/PMC9463824/,2022
+R097,MAL_P002,PubMed – Ethiopian antimalarial medicinal plant review,plant,https://pubmed.ncbi.nlm.nih.gov/28764723/,"Nigussie G., Wale M. (2022)",https://pmc.ncbi.nlm.nih.gov/articles/PMC9463824/,2022
+R098,MAL_P003,PubMed – Ethiopian antimalarial medicinal plant review,plant,https://pubmed.ncbi.nlm.nih.gov/28764723/,"Nigussie G., Wale M. (2022)",https://pmc.ncbi.nlm.nih.gov/articles/PMC9463824/,2022
+R099,MAL_P004,WHO – Malaria,plant,https://www.who.int/health-topics/malaria,"Nigussie G., Wale M. (2022)",https://pmc.ncbi.nlm.nih.gov/articles/PMC9463824/,2022
+R100,MAL_P005,PubMed – Review of Ethiopian medicinal plants used against malaria,plant,https://pubmed.ncbi.nlm.nih.gov/28764723/,"Nigussie G., Wale M. (2022)",https://pmc.ncbi.nlm.nih.gov/articles/PMC9463824/,2022
+R101,TUB_P001,PubMed – Traditional medicinal plants used in the treatment of tuberculosis in Ethiopia,plant,https://pubmed.ncbi.nlm.nih.gov/35647341/,"Getachew S. et al., Traditional medicinal plants used in the treatment of tuberculosis in Ethiopia",https://pmc.ncbi.nlm.nih.gov/articles/PMC9130528/,2022
+R102,TUB_P002,Ethiopian Medicinal Plants Used for Respiratory Tract Disorders Review,plant,https://pmc.ncbi.nlm.nih.gov/articles/PMC9845041/,Getachew S. et al. (2022),https://pmc.ncbi.nlm.nih.gov/articles/PMC9130528/,2022
+R103,TUB_P003,PubMed – TB medicinal plants review,plant,https://pubmed.ncbi.nlm.nih.gov/35647341/,Getachew S. et al. (2022),https://pmc.ncbi.nlm.nih.gov/articles/PMC9130528/,2022
+R104,TUB_P004,PubMed – TB medicinal plants review,plant,https://pubmed.ncbi.nlm.nih.gov/35647341/,Getachew S. et al. (2022),https://pmc.ncbi.nlm.nih.gov/articles/PMC9130528/,2022
+R105,TUB_P005,Ethiopian Medicinal Plants Used for Respiratory Tract Disorders Review,plant,https://pmc.ncbi.nlm.nih.gov/articles/PMC9845041/,Getachew S. et al. (2022),https://pmc.ncbi.nlm.nih.gov/articles/PMC9130528/,2022
+R106,PNE_P001,PubMed – Ethiopian Medicinal Plants Used for Respiratory Tract Disorders,plant,https://pubmed.ncbi.nlm.nih.gov/36582582/,Ethiopian ethnobotanical studies on medicinal plants used for respiratory disorders,https://pmc.ncbi.nlm.nih.gov/articles/PMC9845041/,2023
+R107,PNE_P002,PubMed – Review of Ethiopian respiratory medicinal plants,plant,https://pubmed.ncbi.nlm.nih.gov/36582582/,Ethiopian ethnobotanical studies on respiratory medicinal plants,https://pmc.ncbi.nlm.nih.gov/articles/PMC9845041/,2023
+R108,PNE_P003,PubMed – Respiratory medicinal plants review,plant,https://pubmed.ncbi.nlm.nih.gov/36582582/,Ethiopian ethnobotanical review,https://pmc.ncbi.nlm.nih.gov/articles/PMC9845041/,2023
+R109,PNE_P004,PubMed – Ethiopian medicinal plants for respiratory diseases,plant,https://pubmed.ncbi.nlm.nih.gov/36582582/,Ethiopian ethnobotanical studies,https://pmc.ncbi.nlm.nih.gov/articles/PMC9845041/,2023
+R110,PNE_P005,PubMed – Ethiopian Medicinal Plants Used for Respiratory Tract Disorders,plant,https://pubmed.ncbi.nlm.nih.gov/36582582/,Ethiopian ethnobotanical studies on respiratory medicinal plants,https://pmc.ncbi.nlm.nih.gov/articles/PMC9845041/,2023
+R111,DIA_P001,Systematic review of Ethiopian medicinal plants,plant,https://www.sciencedirect.com/science/article/pii/S2667031323001124,"Sileshi Degu Getnet et al., EPHI; Review of ethnobotanical studies on medicinal plants used to treat diarrhea and dysentery in Ethiopia",https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/view/195,2023
+R112,DIA_P002,Ethiopian medicinal plant systematic review,plant,https://pmc.ncbi.nlm.nih.gov/articles/PMC5878875/,"Sileshi Degu Getnet et al., EPHI review",https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/view/196,2023
+R113,DIA_P003,Ethiopian medicinal plant review,plant,https://pmc.ncbi.nlm.nih.gov/articles/PMC5878875/,EPHI Ethiopian diarrhea medicinal plant review,https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/view/197,2023
+R114,DIA_P004,Ethiopian medicinal plant systematic review,plant,https://pmc.ncbi.nlm.nih.gov/articles/PMC5878875/,EPHI Ethiopian diarrhea medicinal plant review,https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/view/198,2023
+R115,DIA_P005,International ethnopharmacology literature on Psidium guajava,plant,https://pmc.ncbi.nlm.nih.gov/articles/PMC5878875/,EPHI Ethiopian diarrhea medicinal plant review,https://phytomedicine.ejournals.ca/index.php/phytomedicine/article/view/199,2023
+R116,HEL_P001,Phytomedicine Plus – Systematic Review,plant,https://www.sciencedirect.com/science/article/pii/S2667031323001124,Medicinal plants traditionally used to treat human ailments in Ethiopia: A systematic review,https://www.sciencedirect.com/science/article/pii/S2667031323001124,2024
+R117,HEL_P002,Phytomedicine Plus – Systematic Review,plant,https://www.sciencedirect.com/science/article/pii/S2667031323001124,Medicinal plants traditionally used to treat human ailments in Ethiopia: A systematic review,https://www.sciencedirect.com/science/article/pii/S2667031323001124,2024
+R118,HEL_P003,Phytomedicine Plus – Systematic Review,plant,https://www.sciencedirect.com/science/article/pii/S2667031323001124,"Ethnobotanical Survey (Ensaro District, Ethiopian Biodiversity Institute)",https://pubmed.ncbi.nlm.nih.gov/37946795/,2023
+R119,HEL_P004,Phytomedicine Plus – Systematic Review,plant,https://www.sciencedirect.com/science/article/pii/S2667031323001124,"Ethnobotanical Survey (Ensaro District, Ethiopian Biodiversity Institute)",https://pubmed.ncbi.nlm.nih.gov/37946795/,2023
+R120,HEL_P005,Phytomedicine Plus – Systematic Review,plant,https://www.sciencedirect.com/science/article/pii/S2667031323001124,Medicinal plants traditionally used to treat human ailments in Ethiopia: A systematic review,https://www.sciencedirect.com/science/article/pii/S2667031323001124,2024

@@ -1,0 +1,22 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Addey AI · Ethiopian Indigenous Medicine Assistant</title>
+<link rel="stylesheet" href="src/style.css"></head><body>
+<section id="welcome">
+ <div class="top"><span style="font-size:1.6rem">🌿</span><div class="brand"><b>ADDEY AI</b><small>Ethiopian Indigenous Medicine Assistant</small></div><div class="tg"><button class="th">☀ / 🌙</button></div></div>
+ <div class="hero"><div class="av"><span class="l">🌿</span><img src="src/addey.jpg" alt="Addey, an Ethiopian elder"><span class="r">🌿</span></div>
+ <div class="bubble"><b>Hello, I am Addey.</b>I am here to help you with Ethiopian indigenous health knowledge.<br>Tell me your symptoms or speak so I can understand you.</div>
+ <div class="div">How would you like to continue?</div>
+ <div class="opts"><button class="opt" id="sp"><i>🎤</i><span><b>Speak</b><small>Talk to Addey</small></span></button><button class="opt" id="ty"><i>💬</i><span><b>Type</b><small>Type your symptoms</small></span></button></div></div>
+ <div class="foot">🌿 Our knowledge comes from nature, tradition and science.</div>
+</section>
+<section id="chat" hidden>
+ <aside id="sb"><div class="brand" style="margin-bottom:10px"><b>ADDEY AI</b><small>Ethiopian Indigenous Medicine Assistant</small></div>
+ <button class="nb on" data-a="new">＋ New Chat</button><button class="nb" data-a="hist">🕘 History</button><button class="nb" data-a="saved">🌱 Saved Plants</button><button class="nb" data-a="about">ⓘ About Addey AI</button><button class="nb" data-a="set">⚙ Settings</button>
+ <div class="kb"><b>Knowledge Base</b><br><span id="kb"></span></div></aside>
+ <div class="main"><div class="top"><button id="mb" aria-label="Menu">☰</button><div class="tg"><button class="th">☀ / 🌙</button></div></div>
+ <div id="msgs"></div>
+ <div class="inp"><input id="q" placeholder="Type your symptoms here..." autocomplete="off"><button class="go" id="go" aria-label="Send">➤</button><button id="mic" aria-label="Speak">🎤</button></div>
+ <div class="mf">Made with ♥ in Ethiopia</div></div>
+</section>
+<script type="module" src="src/app.js"></script></body></html>
